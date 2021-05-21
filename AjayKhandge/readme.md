@@ -1,3 +1,3 @@
 Name: Ajay Anil Khandge
 
-Sklls: Full Stack Web and Mobile Developer
+Skills: Full Stack Web and Mobile Developer
